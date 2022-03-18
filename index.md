@@ -1,4 +1,4 @@
-AgroHub
+# AgroHub
 
 # What is AgroHub?
 AgroHub is a marketplace for Puertorrican farmers. 
@@ -19,12 +19,35 @@ from other individual Farmers in order to redistribute. However, the
 redistribution process requires tons of effort, e.g. determining how much a
 single Farmer sold, scaling for more customers, etc.
 
+# Solution Approach
+Our solution is to satisfy 3 types of users:
+1. Organizations
+2. Farmers
+3. Customers
 
-# Technical Aspects
-In this section we go over the main points about:
-- Our Tech-stack
-- Our architecture
+We should provide Organizations the following *features*:
+- Contact other individual Farmers
+- Post their products for selling
+- Automation for the processes of
+    - inventory 
+    - calculate individual farmer earnings
+    - transactions
+
+We should provide Farmers the following *features*:
+- Contact Organizations
+- Keep track of their products
+- Keep track of their earnings
+
+We should allow Customers to:
+- Buy products
+- Reviewing 
+
+# Technical Description
 
 ## Frontend
+We use the ReactJS Framework in order to provide the Client interface for our
+users. The following diagram, shows the architecture followed for the Frontend:
+
+[fearch]!(./frontend-architecture.png)
 
 ## Backend
