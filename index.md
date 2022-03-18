@@ -47,13 +47,19 @@ users: Organizations, Farmers, and Customers.
     * transactions
 
 2. We should provide Farmers the following *features*:
+
 * Contact Organizations
+
 * Keep track of their products
+
 * Keep track of their earnings
 
 3. We should allow Customers to:
+
 * Buy products
+
 * View products
+
 * Contact Organizations and/or Farmers
 
 # Technical Description
