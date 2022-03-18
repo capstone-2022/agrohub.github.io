@@ -51,7 +51,7 @@ users: Organizations, Farmers, and Customers.
 3. We should allow Customers to:
 - Buy products
 - View products
-- Contact Organizations
+- Contact Organizations and/or Farmers
 
 # Technical Description
 Tech-Stack:
@@ -68,7 +68,8 @@ users. The following diagram explains the architecture for the Frontend:
 
 ## Backend
 We use the Spring Boot Framework to build the server which provides the data
-stored in the PostgreSQL database. Currently we provide the following features:
+stored in the PostgreSQL database. Currently, the following features are
+provided:
 - Login
 - Registering
 - Password encryption
