@@ -42,9 +42,9 @@ users: Organizations, Farmers, and Customers.
 * Post their products for selling
 
 * Automated processes for:
-    - inventory 
-    - individual farmer earnings
-    - transactions
+    * inventory 
+    * individual farmer earnings
+    * transactions
 
 2. We should provide Farmers the following *features*:
 * Contact Organizations
