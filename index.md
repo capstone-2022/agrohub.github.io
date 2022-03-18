@@ -35,7 +35,7 @@ redistribution process:
 Our solution is to help in this distribution process by satisfying 3 types of
 users: Organizations, Farmers, and Customers.
 
-We should provide Organizations the following *features*:
+1. We should provide Organizations the following *features*:
 - Contact other individual Farmers
 - Post their products for selling
 - Automated processes for:
@@ -43,12 +43,12 @@ We should provide Organizations the following *features*:
     - individual farmer earnings
     - transactions
 
-We should provide Farmers the following *features*:
+2. We should provide Farmers the following *features*:
 - Contact Organizations
 - Keep track of their products
 - Keep track of their earnings
 
-We should allow Customers to:
+3. We should allow Customers to:
 - Buy products
 - View products
 - Contact Organizations and/or Farmers
