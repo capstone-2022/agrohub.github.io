@@ -1,6 +1,4 @@
 ---
-title: AgroHub
----
 
 # What is our mission?
 Our goal is to allow individual farmers and small organizations to grow
