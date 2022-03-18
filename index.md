@@ -36,8 +36,11 @@ Our solution is to help in this distribution process by satisfying 3 types of
 users: Organizations, Farmers, and Customers.
 
 1. We should provide Organizations the following *features*:
+
 * Contact other individual Farmers
+
 * Post their products for selling
+
 * Automated processes for:
     - inventory 
     - individual farmer earnings
