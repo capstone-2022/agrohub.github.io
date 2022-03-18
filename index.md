@@ -1,5 +1,9 @@
 
-## What is our mission?
+---
+title: AgroHub
+---
+
+# What is our mission?
 Our goal is to allow individual farmers and small organizations to grow
 economically and scale as much as they can by selling their products via 
 the Internet. In addition, we'd like to provide the community of Puerto Rico 
