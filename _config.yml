@@ -1,1 +1,6 @@
+title: AgroHub
+description: A marketplace for Puertorrican Farmers
+show_downloads: true
+github:
+    url: https://github.com/capstone-2022
 theme: jekyll-theme-cayman
