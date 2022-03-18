@@ -36,22 +36,22 @@ Our solution is to help in this distribution process by satisfying 3 types of
 users: Organizations, Farmers, and Customers.
 
 1. We should provide Organizations the following *features*:
-- Contact other individual Farmers
-- Post their products for selling
-- Automated processes for:
+* Contact other individual Farmers
+* Post their products for selling
+* Automated processes for:
     - inventory 
     - individual farmer earnings
     - transactions
 
 2. We should provide Farmers the following *features*:
-- Contact Organizations
-- Keep track of their products
-- Keep track of their earnings
+* Contact Organizations
+* Keep track of their products
+* Keep track of their earnings
 
 3. We should allow Customers to:
-- Buy products
-- View products
-- Contact Organizations and/or Farmers
+* Buy products
+* View products
+* Contact Organizations and/or Farmers
 
 # Technical Description
 Tech-Stack:
