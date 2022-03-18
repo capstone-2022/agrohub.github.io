@@ -43,11 +43,18 @@ We should allow Customers to:
 - Reviewing 
 
 # Technical Description
+Tech-Stack:
+- ReactJS
+- Spring Boot
+- PostgreSQL
+- Heroku
 
 ## Frontend
 We use the ReactJS Framework in order to provide the Client interface for our
-users. The following diagram, shows the architecture followed for the Frontend:
+users. The following diagram explains the architecture for the Frontend:
 
-[fearch]!(./frontend-architecture.png)
+![fearch](./frontend-architecture.png)
 
 ## Backend
+We use the Spring Boot Framework to build the server which provides the data
+stored in the PostgreSQL database.
